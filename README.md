@@ -42,8 +42,8 @@ Hey! I'm Hossein, a passionate **Full Stack Mobile Developer** with over **three
 ---
 
 ### 📫 Get in Touch
-💼 LinkedIn: [Your Profile](#)  
-📧 Email: your.email@example.com  
+💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/hosseinvalipour/)  
+📧 Email: hosivay@gmail.com  
 🌍 Location: Shiraz, Iran  
 
 ---
