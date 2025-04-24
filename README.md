@@ -19,9 +19,9 @@ Hey! I'm Hossein, a passionate **Full Stack Mobile Developer** with over **three
 ### 🔥 Tech Stack & Skills
 
 - **Frontend (Mobile)**: Flutter (Dart) | Android (Java, Kotlin)  
-- **Backend**: Node.js (Learning)  
-- **Database**: GraphQL | Firebase | SQL  
-- **Other**: Git & GitHub | Agile & Scrum | Clean Architecture  
+- **Backend**: Node.js 
+- **Database**: GraphQL | Supabase | SQL  
+- **Other**: Git & GitHub | Clean Architecture  
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
