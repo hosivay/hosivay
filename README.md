@@ -29,8 +29,7 @@ Hey! I'm Hossein, a passionate **Full Stack Mobile Developer** with over **three
 ---
 
 ### 🌟 Projects
-🔹 **Yara** – A smart financial management & task planning app powered by AI.  
-🔹 **FlutterMap Integration** – Interactive map application with multiple data providers & dynamic routes.  
+🔹 **Yara** – A smart financial management & task planning app powered by AI.
 
 ---
 
