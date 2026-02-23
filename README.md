@@ -1,7 +1,5 @@
 # Hi, I'm Hossein 👋  
-### Full Stack Developer | Product Builder | Founder Mindset
-
-I build real products — not just apps.
+### Full Stack Developer
 
 Full Stack Developer with 5+ years of experience in mobile development, now deeply involved in backend architecture, DevOps, and secure systems.  
 I care about performance, security, clean architecture, and building things that actually ship.
