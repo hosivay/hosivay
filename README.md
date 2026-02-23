@@ -1,52 +1,103 @@
-# Hi there! 👋 I'm Hossein
+# Hi, I'm Hossein 👋  
+### Full Stack Developer | Product Builder | Founder Mindset
 
-🚀 **Full Stack Mobile Developer | Flutter Enthusiast | Future Node.js Expert**
+I build real products — not just apps.
 
----
-
-### 🌱 About Me
-Hey! I'm Hossein, a passionate **Full Stack Mobile Developer** with over **three years of experience** in Flutter. I started my journey in Android development with Java & Kotlin before fully embracing Flutter. Currently, I'm expanding my backend skills with **Node.js** to become a more versatile developer.
-
-🛠️ I love building innovative mobile applications, optimizing UI/UX experiences, and integrating cutting-edge technologies. 
+Full Stack Developer with 5+ years of experience in mobile development, now deeply involved in backend architecture, DevOps, and secure systems.  
+I care about performance, security, clean architecture, and building things that actually ship.
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hosivay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hosseinvalipour) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hosivay) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hosivay) 
+## 🚀 What I Do
+
+- 📱 Build scalable cross-platform apps with Flutter  
+- 🧠 Design backend systems with Node.js & GraphQL  
+- 🔐 Work on encryption & security-focused applications  
+- 🐳 Deploy with Docker, Nginx, SSL & CI/CD pipelines  
+- 🏗 Apply Clean Architecture & production-ready patterns  
+- ⚡ Optimize performance and developer experience  
+
+I enjoy owning the full lifecycle of a product — from idea to deployment.
 
 ---
 
-### 🔥 Tech Stack & Skills
+## 🌟 Featured Projects
 
-- **Frontend (Mobile)**: Flutter (Dart)
-- **Backend**: Node.js 
-- **Database**: GraphQL | Supabase | SQL  
-- **Other**: Git & GitHub | Clean Architecture  
+### 🔐 Codis (Open Source)
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+Codis is a cross-platform encryption app that lets users encrypt sensitive text locally using a secret key — without relying on third-party services.
 
----
+It runs entirely on-device and outputs cipher text using Persian Base64-style encoding, making it easy to copy and share securely anywhere.
 
-### 🌟 Projects
-🔹 **Yara** – A smart financial management & task planning app powered by AI.
+**Platforms:** Web, Android, iOS, Windows, macOS  
 
----
+**Key Features:**
+- Secret-key encryption & decryption  
+- Persian Base64-style cipher output  
+- Markdown rendering (clickable links supported)  
+- Long-text support  
+- Light / Dark theme  
+- Fully responsive  
+- Open-source & extensible  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hosivay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hosivay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hosivay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### 📫 Get in Touch
-💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/hosseinvalipour/)  
-📧 Email: hosivay@gmail.com  
-🌍 Location: Shiraz, Iran  
+Built for privacy-first users, developers, and teams.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=hosivay&icon=0&color=0)](https://visitcount.itsvg.in)
+### 📊 Yara
 
-💡 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+A smart financial management & task planning app powered by AI.
+
+- 2,000+ active users  
+- Published on Android & iOS  
+- Designed with a focus on usability and structured planning  
+- Built with Flutter and a scalable backend architecture  
+
+---
+
+## 🧰 Tech Stack
+
+**Mobile**  
+Flutter (Dart)
+
+**Backend**  
+Node.js | REST | GraphQL | JWT | Auth systems
+
+**DevOps**  
+Docker | Docker Compose | Nginx | SSL | CI/CD (GitHub Actions)
+
+**Databases & Services**  
+SQL | Supabase | Redis | Object Storage (MinIO)
+
+**Architecture**  
+Clean Architecture | Scalable folder structure | Modular design
+
+---
+
+## 📈 Currently Focused On
+
+- Advanced backend architecture  
+- Security & encryption systems  
+- System design  
+- Building production-grade tools  
+- Improving across the full stack  
+
+---
+
+## 🌍 Location
+
+Shiraz, Iran  
+Open to remote collaboration.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/hosseinvalipour  
+- Email: hosivay@gmail.com  
+
+---
+
+## 💡 Philosophy
+
+> Build things that matter. Ship fast. Improve constantly.
