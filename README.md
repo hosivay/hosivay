@@ -1,101 +1,62 @@
-# Hi, I'm Hossein 👋  
-### Full Stack Developer
+# Hossein Valipour
 
-Full Stack Developer with 5+ years of experience in mobile development, now deeply involved in backend architecture, DevOps, and secure systems.  
-I care about performance, security, clean architecture, and building things that actually ship.
-
----
-
-## 🚀 What I Do
-
-- 📱 Build scalable cross-platform apps with Flutter  
-- 🧠 Design backend systems with Node.js & GraphQL  
-- 🔐 Work on encryption & security-focused applications  
-- 🐳 Deploy with Docker, Nginx, SSL & CI/CD pipelines  
-- 🏗 Apply Clean Architecture & production-ready patterns  
-- ⚡ Optimize performance and developer experience  
-
-I enjoy owning the full lifecycle of a product — from idea to deployment.
+**Full Stack Mobile Developer & Software Team Lead**  
+Shiraz, Iran · Open to remote collaboration
 
 ---
 
-## 🌟 Featured Projects
+## About
 
-### 🔐 Codis (Open Source)
+I build and ship production-grade mobile and web applications end-to-end — from architecture and backend to UI and server deployment. With 5+ years of hands-on experience, I've independently launched products used by thousands of active users and led development teams delivering real-world software.
 
-Codis is a cross-platform encryption app that lets users encrypt sensitive text locally using a secret key — without relying on third-party services.
-
-It runs entirely on-device and outputs cipher text using Persian Base64-style encoding, making it easy to copy and share securely anywhere.
-
-**Platforms:** Web, Android, iOS, Windows, macOS  
-
-**Key Features:**
-- Secret-key encryption & decryption  
-- Persian Base64-style cipher output  
-- Markdown rendering (clickable links supported)  
-- Long-text support  
-- Light / Dark theme  
-- Fully responsive  
-- Open-source & extensible  
-
-Built for privacy-first users, developers, and teams.
+Currently working as Team Lead at **Lian Postquantum**, where I manage a 4-person engineering team, architect systems, and oversee the stability and growth of [Weekilaw](https://weekilaw.com) — a legal AI platform serving 5,000+ users.
 
 ---
 
-### 📊 Yara
+## Featured Products
 
-A smart financial management & task planning app powered by AI.
+### Yara — AI-Powered Personal Management
+A cross-platform Flutter app for financial tracking and task management with AI-driven prioritization.  
+**2,000+ active users · Published on Android & iOS**  
+[yaraapp.ir](https://yaraapp.ir)
 
-- 2,000+ active users  
-- Published on Android & iOS  
-- Designed with a focus on usability and structured planning  
-- Built with Flutter and a scalable backend architecture  
+### Weekilaw — Legal AI Platform
+An AI assistant for legal questions — serving general users and lawyers.  
+**5,000+ active users · Built and led by me at Lian Postquantum**  
+[weekilaw.com](https://weekilaw.com)
 
----
+### Niva — Local AI Assistant
+A desktop app for Windows, macOS, and Linux — run local AI models with a clean Persian UI, no internet required.  
+**Community & Enterprise editions · RSA offline licensing**  
+[nivacore.ir](https://nivacore.ir)
 
-## 🧰 Tech Stack
-
-**Mobile**  
-Flutter (Dart)
-
-**Backend**  
-Node.js | REST | GraphQL | JWT | Auth systems
-
-**DevOps**  
-Docker | Docker Compose | Nginx | SSL | CI/CD (GitHub Actions)
-
-**Databases & Services**  
-SQL | Supabase | Redis | Object Storage (MinIO)
-
-**Architecture**  
-Clean Architecture | Scalable folder structure | Modular design
+### Vidana — Social Network (Coming Soon)
+A feature-rich social platform built for the Iranian market — daily challenges, communities, in-app economy.  
+*Currently in private beta.*
 
 ---
 
-## 📈 Currently Focused On
+## Tech Stack
 
-- Advanced backend architecture  
-- Security & encryption systems  
-- System design  
-- Building production-grade tools  
-- Improving across the full stack  
-
----
-
-## 🌍 Location
-
-Shiraz, Iran  
-Open to remote collaboration.
+**Mobile:** Flutter · Dart · Riverpod · Flutter Web / PWA  
+**Backend:** Node.js · REST API · GraphQL · JWT  
+**Databases:** MongoDB · Supabase / PostgreSQL · Redis  
+**Infrastructure:** Docker · Nginx · MinIO · Linux Server Management  
+**Tools:** Git · GitHub Actions · CI/CD
 
 ---
 
-## 📫 Connect With Me
+## Open Source
 
-- LinkedIn: https://linkedin.com/in/hosseinvalipour  
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [codis](https://github.com/hosivay/codis) | Cross-platform local encryption app | ⭐ 6 |
+| [blackbird](https://github.com/hosivay/blackbird) | LAN messenger with real-time messaging | ⭐ 7 |
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/hosseinvalipour](https://linkedin.com/in/hosseinvalipour)  
 - Email: hosivay@gmail.com  
-
----
-
-## 💡 Philosophy
-
-> Build things that matter. Ship fast. Improve constantly.
+- Telegram: [@hosivay](https://t.me/hosivay)
